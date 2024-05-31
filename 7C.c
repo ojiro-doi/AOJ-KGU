@@ -26,7 +26,7 @@ void preParse(int u)
 /* 中間順巡回 */
 void inParse(int u)
 {
-  ï if (u == NIL)
+  if (u == NIL)
   {
     return;
   }
